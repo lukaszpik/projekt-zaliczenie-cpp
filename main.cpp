@@ -1,7 +1,7 @@
 #include <iostream>
 #include <windows.h>
-#include "../Projekt_LP/Game/menu.h"
-#include "../Projekt_LP/Game/menu_las.h"
+#include "../projekt-zaliczenie-cpp/Game/menu.h"
+#include "../projekt-zaliczenie-cpp/Game/menu_las.h"
 using namespace std;
 
 int main()

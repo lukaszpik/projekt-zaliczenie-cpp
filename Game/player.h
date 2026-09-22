@@ -22,11 +22,11 @@ public:
     Player()
     {
         nickname = "unknown";
-        max_hp = 1000;
-        currentHp = 1000;
-        level = 10;
+        max_hp = 100;
+        currentHp = 100;
+        level = 1;
         xp = 0;
-        damage = 500;
+        damage = 10;
         xptonextlevel = xpNeededForNextLevel();
         moneyBag = 0;
     };

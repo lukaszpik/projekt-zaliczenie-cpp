@@ -1,9 +1,9 @@
 cmake_minimum_required(VERSION 4.2)
-project(Projekt_LP)
+project(projekt-zaliczenie-cpp)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(Projekt_LP main.cpp
+add_executable(projekt-zaliczenie-cpp main.cpp
         Game/character.h
         Game/character.cpp
         Game/player.h
