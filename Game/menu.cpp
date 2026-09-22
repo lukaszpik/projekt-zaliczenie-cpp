@@ -10,10 +10,10 @@ void Menus::game_title()
     system("cls");
     cout << "╔══════════════════════════════════════════╗" << endl;
     cout << "║                                          ║" << endl;
-    cout << "║     L A S   O S T A T E C Z N E G O      ║" << endl;
-    cout << "║           Z A L I C Z E N I A            ║" << endl;
+    cout << "║          THE FOREST OF MONSTERS          ║" << endl;
     cout << "║                                          ║" << endl;
-    cout << "║           by Lukasz Pikulik              ║" << endl;
+    cout << "║                                          ║" << endl;
+    cout << "║               by iamzenti                ║" << endl;
     cout << "║                                          ║" << endl;
     cout << "╚══════════════════════════════════════════╝" << endl;
     cout << endl;
